@@ -11,18 +11,18 @@ Com uma interface intuitiva, o site permite fazer reservas com facilidade, garan
 https://github.com/user-attachments/assets/d5a6fab5-d8db-4966-a896-f476353d5cdb
 
 
-### Tecnologias Utilizadas
+🚀 ### Tecnologias Utilizadas
 
 - HTML
 - Tailwind: ^3.4.17
 
-### Funcionalidades
+💡 ### Funcionalidades
 
 - Agendamento de Visitas – Os visitantes podem escolher datas específicas e reservar sua estadia preenchendo um formulário simples.
 - Consulta de Eventos Naturais – O site exibe os melhores períodos para observação da Lua Nova, Chuva de Meteoros e Aurora Boreal, ajudando na escolha da melhor data para a experiência.
 - Contato e Suporte – Um canal de atendimento está disponível para esclarecer dúvidas sobre a estadia e os eventos naturais.
 
-### Como Executar o Projeto
+📖 ### Como Executar o Projeto
 
 #### Pré-requisitos
 
