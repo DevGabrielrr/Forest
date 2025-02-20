@@ -7,6 +7,10 @@ Além disso, o site fornece informações sobre os melhores períodos para obser
 
 Com uma interface intuitiva, o site permite fazer reservas com facilidade, garantindo que cada hóspede tenha uma experiência inesquecível, imersa no ambiente natural e com o céu estrelado como cenário principal.</p>
 
+
+https://github.com/user-attachments/assets/d5a6fab5-d8db-4966-a896-f476353d5cdb
+
+
 ### Tecnologias Utilizadas
 
 - HTML
